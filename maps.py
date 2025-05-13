@@ -4,7 +4,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 """Initialize Google Maps client."""
-map_client = googlemaps.Client('AIzaSyAWiOY-X7t0I6uQ9tGF0t3D5KR0NpUAzJg')
+map_client = googlemaps.Client('xxxx') #Replace with actual
 
 def miles_to_meters(miles):
     """Convert miles to meters."""
